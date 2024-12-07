@@ -1,0 +1,4 @@
+Supra,AB 1111 CD,Merah,5,1,1
+Toyota,AB 113 RT,Putih,1,0,0
+Honda,AB EDN 1,Merah,2,1,1
+Ertiga,AB 1234 AB,Hitam,5,1,0
